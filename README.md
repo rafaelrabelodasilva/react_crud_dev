@@ -1,3 +1,7 @@
+# O projeto ✨
+
+Em andamento 🔨
+
 ### Passo 1: Criar o projeto e instalar o Material UI
 
 Para criarmos o projeto iremos utilizar o [Vite](https://vitejs.dev/), que é um bundler extremamente rápido e simples de utilizar. Para instalar o Vite, execute o seguinte comando:
